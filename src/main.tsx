@@ -19,8 +19,6 @@ export interface IMainProps {}
 
 export class Main extends React.Component<IMainProps, IMainState> {
 
-    state: IMainState = {newItem: {description: ''}, todoList: []}
-
     constructor () {
         super();
         this.changeName = this.changeName.bind(this);

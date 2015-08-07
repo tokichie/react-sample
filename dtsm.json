@@ -15,6 +15,9 @@
   "dependencies": {
     "react/react.d.ts": {
       "ref": "8f51d25ad3523cd01f2d92e343247852f6b70dff"
+    },
+    "jquery/jquery.d.ts": {
+      "ref": "977da240f263e88215a27cb44f2e31524ca07135"
     }
   }
 }
